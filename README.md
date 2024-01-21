@@ -12,7 +12,7 @@ Here is a spec comparison of the Apple Lisa versus a modern-day laptop like the 
 | Storage             | External 5 or 10 MB HDD | 512 GB SSD             |
 | Memory              | 1 MB of RAM             | 16 GB of RAM           |
 | Resolution          | 720 x 364 at 60Hz       | 1920 x 1080 HD at 60Hz |
-| Price (Current USD) | $29,400                 | $1,100                 |
+| Price (Current USD) | $29,400                 | $1,400                 |
 
 ----
 [^1]: [Specs for Apple Lisa](https://siliconfeatures.com/apple-lisa/)
